@@ -126,4 +126,4 @@ This AI agent is designed for personal use. Please use responsibly and in accord
 
 ## Contact
 
-For questions, suggestions, or issues, please open an issue on GitHub or contact [your-email@example.com].
+For questions, suggestions, or issues, please open an issue on GitHub or contact [akarshakmishra607@gmail.com].
