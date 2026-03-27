@@ -1,4 +1,9 @@
-# Personal AI Agent
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![LangChain](https://img.shields.io/badge/LangChain-LLM-green)
+![MIT](https://img.shields.io/badge/License-MIT-yellow)
+
+> Multi-agent LLM framework for intelligent task automation and reasoning#
+>  Personal AI Agent
 
 A fully functional personal AI agent with no restrictions, designed to assist with various tasks and provide intelligent responses.
 
